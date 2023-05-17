@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="brahmagithub">
+    <Basepaths>/brahmagithub</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1684326812662</CreatedAt>
+    <CreatedBy>tricksintrades@gmail.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>brahmagithub</DisplayName>
+    <LastModifiedAt>1684326812662</LastModifiedAt>
+    <LastModifiedBy>tricksintrades@gmail.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:d1ddefe94aaec78d69667d992cd388b73cfe051df24b8d586dabeb9482745d0d515d2e847471a3bba1ec426d367fd8f0b78b39a1d0c8c3363aaaeaeab71b2c0d:ap-northeast-1</ManifestVersion>
+    <Policies/>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
